@@ -1,8 +1,2 @@
-# Gf-patterns
-Some of the gf patterns which i use while hunting 
-
-Contribution and suggestions are always welcome at https://twitter.com/Nitinydv14
-
-Note : None of the patterns are my own. I just found out them on web 
-
-# Thanks to all the authors for publishing these patterns 
+# GF-Patterns-Redux
+These are small modifications on Tomnomnom and 1ndian133t's GF patterns, just to make my own life a little easier.
