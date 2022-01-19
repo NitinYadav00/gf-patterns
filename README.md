@@ -1,4 +1,4 @@
-# gf-patterns
+# Gf-patterns
 Some of the gf patterns which i use while hunting 
 
 Contribution and suggestions are always welcome at https://twitter.com/Nitinydv14
